@@ -1,0 +1,20 @@
+{
+  "name": "nunchuk",
+  "version": "1.0.0",
+  "description": "Nunchuk interative frontend development.",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.12.4",
+    "gulp-less": "^3.0.3",
+    "gulp-concat": "^2.5.2",
+    "gulp": "^3.9.0",
+    "gulp-livereload": "^3.8.0",
+    "less-plugin-autoprefix": "^1.4.2"
+    },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jwogrady",
+  "license": "MIT"
+}
